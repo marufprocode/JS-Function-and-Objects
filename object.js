@@ -65,7 +65,7 @@ console.log(propertiesValue); */
 // ===================================================
 
 //Set property values
-shoppingCart.mouse = 15;
+/* shoppingCart.mouse = 15;
 console.log(shoppingCart.mouse);
 
 shoppingCart['mouse'] = 20;
@@ -73,7 +73,8 @@ console.log(shoppingCart.mouse);
 
 var computerMouse = 'mouse';
 shoppingCart[computerMouse]= 30;
-console.log(shoppingCart.mouse);
+console.log(shoppingCart.mouse); */
+
 
 
 
